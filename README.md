@@ -38,6 +38,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
+          <p>HTML</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
           <p>Photography</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
@@ -60,6 +64,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
           </div>
           <p>Hindi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
+          </div>
+          <p>Telgu</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
           </div>
@@ -118,6 +126,23 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Bachelor Degree</p><br>
         </div>
       </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-bullhorn fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Achivements</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Carmel High School</b></h5>
+          <ul>
+              <li>Project Manager for <acronym title="Communities In Atria">CIA</acronym></li>
+              <li>President of college in 2018-19</li>
+              <li>Vice President of college in 2017-18</li>
+              <li>Head Boy of School in 2016-17</li>
+              <li>6 verbal mentions in Model United Nations</li>
+              <li>District Level Quiz 3rd for banglore in 2017</li>
+          </ul>
+          <p>I did my schooling at this beautiful space</p>
+          <hr>
+        </div>
+        
 
     <!-- End Right Column -->
     </div>
