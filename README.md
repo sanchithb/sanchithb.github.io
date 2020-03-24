@@ -177,11 +177,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
-  <p><i class="fa fa-facebook-official w3-hover-opacity"></i></p>
-  <p><i class="fa fa-instagram w3-hover-opacity"></i></p>
-  <p><i class="fa fa-snapchat w3-hover-opacity"></i></p>
-  <p><i class="fa fa-pinterest-p w3-hover-opacity"></i></p>
-  <p><i class="fa fa-twitter w3-hover-opacity"></i></p>
+  <a href="https://www.facebook.com/profile.php?id=100008767899009"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+  <a href="https://www.instagram.coom/sunny_sanchith"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/BSanchith"><i class="fa fa-twitter w3-hover-opacity"></i></a>
   <a href="https://www.linkedin.com/in/sanchith-a-4426ba117"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
   <p>Powered by <a href="https://www.sanchith.me" target="_blank">Sanchith B Anand</a></p>
 </footer>
