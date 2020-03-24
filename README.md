@@ -91,20 +91,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Carmel High School</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>20** - 2016</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2007 - 2017</h6>
           <p>I did my schooling at this beautiful space</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Carmel Pre University College</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2018</h6>
-          <p>should type something here</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2019</h6>
+          <p>Major subjects : Physics,Chemistry,Maths,Biology(PCMB)</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Atria Institute of tecjnology</b></h5>
+          <h5 class="w3-opacity"><b>Atria Institute of tecjnology</b><span class="w3-tag w3-teal w3-round">Current : 2nd Semester</span></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 - 2023</h6>
-          <p>Bachelor Degree</p><br>
+          <p>Bachelor Degree in Information Science Engineering</p><br>
         </div>
       </div>
 
