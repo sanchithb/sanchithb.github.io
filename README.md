@@ -31,6 +31,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bangalore, India</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sanchithb.anand@visioneer.atria.edu</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+91 9110226673</p>
+          <p><i class="fa fa-linkedin-square fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/sanchith-a-4426ba117">LinkedIn</a></p>
+          <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://github.com/sanchithb">GitHub</a></p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -65,15 +67,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>Hindi</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:70%"></div>
           </div>
-          <p>Telgu</p>
+          <p>Telugu</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
           </div>
           <p>Kannada</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
           </div>
           <br>
         </div>
@@ -106,10 +108,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
       </div>
 
+     
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-bullhorn fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Achivements</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Carmel High School</b></h5>
+          
           <ul>
               <li>Project Manager for <acronym title="Communities In Atria">CIA</acronym></li>
               <li>President of college in 2018-19</li>
@@ -121,7 +124,23 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <hr>
         </div>
+
+
+        <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-bicycle fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Hobbies</h2>
+        <div class="w3-container">
+          
+          <ul>
+              <li>Always interested in <acronym title="Model United Nations">MUNing</acronym></li>
+              <li>Debating</li>
+              <li>Card Tricks</li>
+          </ul>
+          
+          <hr>
+        </div>
       
+      
+      <!--
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
         <div class="w3-container">
@@ -142,6 +161,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Synopsis of project 3</p><br>
         </div>
       </div>
+       -->
 
       
         
@@ -157,12 +177,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
+  <p><i class="fa fa-facebook-official w3-hover-opacity"></i></p>
+  <p><i class="fa fa-instagram w3-hover-opacity"></i></p>
+  <p><i class="fa fa-snapchat w3-hover-opacity"></i></p>
+  <p><i class="fa fa-pinterest-p w3-hover-opacity"></i></p>
+  <p><i class="fa fa-twitter w3-hover-opacity"></i></p>
+  <a href="https://www.linkedin.com/in/sanchith-a-4426ba117"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
   <p>Powered by <a href="https://www.sanchith.me" target="_blank">Sanchith B Anand</a></p>
 </footer>
 
