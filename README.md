@@ -9,6 +9,15 @@
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body class="w3-light-grey">
+  
+  <div class="intro-cover">
+        <div class="intro-message">
+            <h1>Hi, this is sanchith </h1>
+            <div class="loading">
+                <p>ssup!</p>
+            </div>
+        </div>
+    </div>
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
