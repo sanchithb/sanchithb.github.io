@@ -24,9 +24,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
   <div class="intro-cover">
         <div class="intro-message">
-            <h1>Hi, this is Sanchith </h1>
+            <h1 style="color:white;">Hi, this is Sanchith </h1>
             <div class="loading">
-                <p>ssup!</p>
+                <p style="color:white;">ssup!</p>
             </div>
         </div>
     </div>
