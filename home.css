@@ -4,9 +4,9 @@
 }
 
 :root {
-  --accent: rgb(0, 204, 227);
+  --accent: rgb(0, 150, 136);
   --offwhite: rgba(255, 255, 255, 0.884);
-  --headingTextColors: white;
+  --headingTextColors: black;
   --darkerBackground: rgb(8, 8, 10);
   --lighterBackground: rgb(15, 15, 20);
 }
