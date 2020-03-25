@@ -1,5 +1,7 @@
 <html>
 <title>Sanchith's CV</title>
+
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -10,6 +12,8 @@
     <script src="./tlm.js" defer></script>
     <script src="./tm.js" defer></script>
     <script src="./intro-anim.js" defer></script>
+    
+</head>    
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
