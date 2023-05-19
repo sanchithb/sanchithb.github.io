@@ -1,4 +1,4 @@
-import 'layouts/App/reset.css';
+    import 'layouts/App/reset.css';
 import 'layouts/App/global.css';
 
 import { Navbar } from 'components/Navbar';
