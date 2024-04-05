@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UVTV Redirect Page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      function isIOS() {
+        return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+      }
+
+      function isAndroid() {
+        return /Android/.test(navigator.userAgent);
+      }
+
+      function redirectToStore() {
+        if (isIOS()) {
+          console.log("Ipad");
+          window.location.href =
+            "https://apps.apple.com/in/app/uvtv/id6444676615";
+        } else if (isAndroid()) {
+          window.location.href =
+            "https://play.google.com/store/apps/details?id=com.uvtv.ott";
+        } else {
+          window.location.href = "https://uvtv.in"; // Replace with your generic URL
+        }
+      }
+      window.onload = redirectToStore;
+    </script>
+
+    <h1>Redirecting...</h1>
+    <p>
+      If you are not redirected automatically,
+      <a href="https://play.google.com/store/apps/details?id=com.uvtv.ott"
+        >Android Playstore</a
+      >
+      <a href="https://apps.apple.com/in/app/uvtv/id6444676615"
+        >iOS App Store</a
+      >
+    </p>
+  </body>
+</html>
